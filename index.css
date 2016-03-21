@@ -1,0 +1,8 @@
+p {
+  color: red;
+  border: 2px blue solid; 
+}
+
+p.opening-paragraph {
+  font-size: 20;
+}
