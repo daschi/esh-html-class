@@ -1,6 +1,11 @@
 p {
   color: red;
-  border: 2px blue solid; 
+  border: 2px blue solid;
+}
+
+a {
+  color: red;
+  border: 2px blue solid;
 }
 
 p.opening-paragraph {
